@@ -1,0 +1,1 @@
+/usr/bin/c++   -O0 -Wall -g -ggdb   CMakeFiles/TinyStl.dir/main.cpp.o  -o ../../out/bin/TinyStl  ../../out/lib/libStl.a -lgmock -lgmock_main -lgtest -lgtest_main -lpthread -lc -lm -lrt 

@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../../common/include/Compute.h
+
+/home/neil/mine/MyProject/C++/Base_STL/src/Compute.cpp
+Compute.h
+/home/neil/mine/MyProject/C++/Base_STL/src/Compute.h
+
